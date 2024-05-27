@@ -2,6 +2,8 @@
 layout: default
 title: example
 permalink: exmaple/
+description: an exmaple page
+nav_order: 1
 ---
 # Überschrift
 ## unterüber schrift
