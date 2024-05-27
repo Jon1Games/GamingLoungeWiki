@@ -4,9 +4,6 @@ theme: just-the-docs
 
 url: https://Jon1Games.github.io/GamingLoungeWiki
 
-aux_links:
-  Template Repository: https://github.com/Jon1Games/GamingLoungeWiki
-
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
