@@ -1,6 +1,7 @@
 ---
 layout: default
 title: example
+permalink: exmaple/
 ---
 # Überschrift
 ## unterüber schrift
