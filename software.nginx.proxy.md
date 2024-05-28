@@ -1,7 +1,7 @@
 ---
 title: ProxyConf
 layout: default
-permalink: software/nginx/haubtconf/
+permalink: software/nginx/proxconf/
 parent: Nginx
 grand_parent: Software
 nav_order: 3
