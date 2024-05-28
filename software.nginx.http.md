@@ -2,8 +2,8 @@
 title: http
 layout: default
 permalink: software/nginx/http/
-nav_order: 2
 parent: Nginx
+nav_order: 2
 ---
 
 # Configuration von Verbindungen und Virtualisierung
