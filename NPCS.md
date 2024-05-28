@@ -1,7 +1,7 @@
 ---
 title: NPC's
 layout: default
-permalink: NPCs/
+permalink: npcs/
 nav_order: 6
 has_children: true
 ---
