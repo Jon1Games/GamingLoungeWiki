@@ -1,5 +1,5 @@
 ---
-title: ProxConf
+title: ProxyConf
 layout: default
 permalink: software/nginx/haubtconf/
 parent: Nginx
