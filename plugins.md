@@ -6,4 +6,4 @@ nav_order: 5
 has_children: true
 ---
 
-# Plugins die wir selbst für das GamingLounge Netzwerk Programiert haben.
+# Hier werden alle Plugins die wir für das GamingLounge Netzwerk selbst programiert haben aufgezeigt und erklärt.
