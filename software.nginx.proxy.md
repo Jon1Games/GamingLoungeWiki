@@ -7,7 +7,7 @@ grand_parent: Software
 nav_order: 3
 ---
 
-# Prox.conf
+# Proxy.conf
 
 ```
 proxy_set_header Host                   $host;
