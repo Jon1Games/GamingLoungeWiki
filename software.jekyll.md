@@ -2,7 +2,7 @@
 title: Jekyll
 layout: default
 permalink: software/jekyll/
-parent: software
+parent: Software
 nav_order: 1
 ---
 
