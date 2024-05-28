@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Commands
 nav_order: 2
 permalink: commands/
 ---
