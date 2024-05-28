@@ -3,6 +3,7 @@ title: HaubtConf
 layout: default
 permalink: software/nginx/haubtconf/
 parent: Nginx
+grand_parent: Software
 nav_order: 1
 ---
 
