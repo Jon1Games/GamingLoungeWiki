@@ -1,7 +1,7 @@
 ---
-title: GPsendBlocks
+title: ClaimSend
 layout: default
-permalink: plugins/gpsendblocks/
+permalink: plugins/ClaimSend/
 parent: Plugins
 nav_order: 3
 ---
@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Was ist das?
 
-GriefPrevention send blocks ist ein von Jon1Games endwickeltes Plugin.<br>
-Dieses ist dazu da das verschicken von den Claim Blöcken aus dem [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/) Plugin zu ermöglichen.<br>
+ClaimSend ist ein von Jon1Games endwickeltes Griefprevention addon Plugin.<br>
+Dieses ermöglicht es Spielern ihre [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/) Claimblöcke untereinander auszutauschen.<br>
 ![image](https://github.com/Jon1Games/GamingLoungeWiki/assets/118659471/07f86db1-7ec8-43ca-8fae-c04391414bfb)
 ![image](https://github.com/Jon1Games/GamingLoungeWiki/assets/118659471/2b176fba-71d7-4894-8700-585f7f175cbd)
