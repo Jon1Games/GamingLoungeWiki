@@ -9,9 +9,9 @@ permalink: commands/
 
 |Command|Nutzen|
 |/spawn|Teleportiert dich zum Spawn|
-|/claimsend <Spieler> <Anzahl>|Schicke eine Anzahl deiner Claimblöcke zu anderem Spieler|
-|/tpa <Spieler>|Sendet einem Spieeler eine Teleportations anfrage|
-|/pay  <Spieler> <Anzahl>|Sende einem Spieler Geld.|
+|/claimsend SPIELER ANZAHL|Schicke eine Anzahl deiner Claimblöcke zu anderem Spieler|
+|/tpa SPIELER|Sendet einem Spieeler eine Teleportations anfrage|
+|/pay  SPIELER ANZAHL|Sende einem Spieler Geld.|
 |||
 |||
 |||
