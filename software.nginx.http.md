@@ -21,10 +21,10 @@ server {
 
   include ssl.conf;
 
-    location / {
-      root /var/www/;
-      index index.html
-    }
+  location / {
+    root /var/www/;
+    index index.html
+  }
 }
 ```
 
