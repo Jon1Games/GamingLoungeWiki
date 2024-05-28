@@ -3,6 +3,7 @@ title: http
 layout: default
 permalink: software/nginx/http/
 parent: Nginx
+grand_parent: Software
 nav_order: 2
 ---
 
