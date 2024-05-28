@@ -12,7 +12,3 @@ has_children: true
 ## Informationen Vorab
 
 In unserem fall ist der Webserver hinter einer VPN was einiger weiteren Einstellugen bedarf.  
-
-## Instalation
-
-Später
