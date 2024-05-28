@@ -19,7 +19,7 @@ server {
   listen [::]:443 ssl;
   server_name wiki.gaminglounge.me
   
-  include SSL_CERT_PATH;
+  include ssl.conf;
 
   location / {
     root /root/GamingLoungeWiki/_site/;
@@ -36,7 +36,7 @@ server {
   listen [::]:443 ssl;
   server_name youtube.gaminglounge.me
   
-  include SSL_CERT_PATH;
+  include ssl.conf;
 
   location / {
     prox_pass https://www.youtube.com/@GamingLoungeMC;
