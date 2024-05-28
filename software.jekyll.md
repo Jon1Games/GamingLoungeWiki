@@ -43,7 +43,7 @@ chmod a+rx -R /root/
 
 Im Anschluß daran wird die Webseite im Webserver eingebunden.<br>
 Wir benutzen dazu [nginx](https://nginx.org/en/).<br>
-Er klährt ist dies in unserer [nginx Dokumentation]().<br>
+Er klährt ist dies in unserer [nginx Dokumentation](software/nginx/).<br>
 
 Wenn wir danach die Webseite im Git Repository bearbeitet wird diese mit dem folgendem Befehl aktualisiert.
 ```
