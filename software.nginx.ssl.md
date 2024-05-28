@@ -9,7 +9,7 @@ nav_order: 4
 
 # ssl.conf
 
-```
+```nginx
 ssl_certificate cert_chain.pem;
 ssl_trusted_certificate crt.crt;
 ssl_certificate_key key.key;
