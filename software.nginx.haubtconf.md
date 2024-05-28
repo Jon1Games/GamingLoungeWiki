@@ -2,8 +2,8 @@
 title: HaubtConf
 layout: default
 permalink: software/nginx/haubtconf/
-nav_order: 1
 parent: Nginx
+nav_order: 1
 ---
 
 # Haubt Configuration des Nginx Servers
