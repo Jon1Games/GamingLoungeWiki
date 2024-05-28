@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Was ist das?
 
-Stuff ist ein Plugin welches Jon1Games(Jonas) programiert hat.<br>
+Stuff ist ein Plugin welches Jon1Games programiert hat.<br>
 Dieses ist dazu da Befehle von Minecraft zu ersetzen um diese auch für Spieler einfacher und Schöner zu gestallten.<br>
 Auch ergänzt diese einige Befehle wie z.B.: /discord oder /msg.
 Dan Formatiert dieses die Spielernamen um einen Prefix und Suffix mit Farben zu erzeugen.
