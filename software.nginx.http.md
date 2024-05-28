@@ -12,6 +12,27 @@ nav_order: 2
 Jeder Code-Block ist eine Webseite.<br>
 server_name ist die Domain, und " _ " sind alle verbindungen die nicht von einer vorhandenen Configuration genutz werden.
 
+## Haubt Webseite
+
+```
+server {
+  listen 443 ssl default_server;
+  listen [::]:443 ssl default_server;
+
+  include ssl.conf;
+
+    location / {
+      root /var/www/;
+      index index.html
+}
+
+# You may need this to prevent return 404 recursion.
+location = /404.html {
+internal;
+}
+}
+```
+
 ## Innerhalb des Servers
 ```
 server {
