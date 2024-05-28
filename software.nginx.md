@@ -2,8 +2,8 @@
 title: Nginx
 layout: default
 permalink: software/nginx/
-nav_order: 2
 parent: Software
+nav_order: 2
 has_children: true
 ---
 
