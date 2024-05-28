@@ -1,7 +1,7 @@
 ---
 title: Jim
 layout: default
-permalink: NPCs/freebuild/jim/
+permalink: npcs/freebuild/jim/
 parent: FreeBuild
 nav_order: 1
 ---
