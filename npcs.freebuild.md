@@ -2,6 +2,6 @@
 title: FreeBuild
 layout: default
 permalink: npcs/freebuild/
-parent: NPCS
+parent: npcs
 nav_order: 1
 ---
