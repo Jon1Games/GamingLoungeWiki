@@ -2,7 +2,7 @@
 title: Jim
 layout: default
 permalink: npcs/freebuild/jim/
-parent: FreeBuild
+parent: freebuild
 nav_order: 1
 ---
 
