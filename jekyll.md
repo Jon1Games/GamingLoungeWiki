@@ -1,7 +1,7 @@
 ---
 title: Jekyll
 layout: default
-permalink: jekyll/
+permalink: software/jekyll/
 parent: Software
 ---
 
