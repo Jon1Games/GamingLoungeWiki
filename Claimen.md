@@ -1,6 +1,6 @@
 ---
 title: Claimen
 layout: default
-permalink: /
-nav_order: 1
+permalink: claimen/
+nav_order: 3
 ---
