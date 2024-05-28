@@ -24,12 +24,7 @@ server {
     location / {
       root /var/www/;
       index index.html
-}
-
-# You may need this to prevent return 404 recursion.
-location = /404.html {
-internal;
-}
+    }
 }
 ```
 
