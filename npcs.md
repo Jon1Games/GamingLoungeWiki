@@ -1,9 +1,9 @@
 ---
-title: NPC's
+title: FreeBuild
 layout: default
-permalink: npcs/
+permalink: freebuild/
 nav_order: 6
 has_children: true
 ---
 
-# Hier werden alle auf dem GamingLounge Netzwerk bekannten NPC's aufgelistet und erklärt.
+# Hier werden alle Infos zum FreeBuild auf dem GamingLounge Netzwerk aufgelistet und erklärt.
