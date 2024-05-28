@@ -2,8 +2,8 @@
 title: Home
 layout: home
 permalink: /
-description: Home seite
-nav_order: 2
+nav_order: 1
+has_child: true
 ---
 
 # TEst
