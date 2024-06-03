@@ -22,3 +22,4 @@ gibt es diesmal festgeschriebene Regeln.
 ``b.  Ein vom Team als Verstoß angesehender Vorfall im Konflikt mit den Regeln, kann zu einer
       Strafe wie z.B. einem Mute oder Ban führen, das Team nimmt sich das Recht, dies selbst
       zu entscheiden, weitere Infos auf [Discord](https://www.discord.gaminglounge.me)``
+      [Discord](https://www.discord.gaminglounge.me)
