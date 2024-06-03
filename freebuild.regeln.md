@@ -2,7 +2,7 @@
 title: Regeln
 layout: default
 permalink: freebuild/regeln/
-parent: freebuild
+parent: FreeBuild
 nav_order: 3
 ---
 
