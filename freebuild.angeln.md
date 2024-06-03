@@ -3,6 +3,6 @@ title: Angeln
 layout: default
 permalink: freebuild/angeln/
 parent: freebuild
-nav_order: 1
+nav_order: 2
 ---
 
