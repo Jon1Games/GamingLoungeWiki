@@ -14,12 +14,12 @@ Um aus unseren Fehlern zu lernen und diesmal die Dinge besser zu machen,
 gibt es diesmal festgeschriebene Regeln.
 
 
-## 1.1 Allgemeines Verhalten
+- ## Allgemeines Verhalten
 
-a.  Die Spieler sind selbst für ihr Verhalten verantwortlich, es gelten die algemeinen
-      Verhaltensrichtlienen wie, keine ernstzunehmenden Beleidiegungen, keine Razismus etc.
+  1.1.  Die Spieler sind selbst für ihr Verhalten verantwortlich, es gelten die algemeinen
+        Verhaltensrichtlienen wie, keine ernstzunehmenden Beleidiegungen, keine Razismus etc.
 
-b.  Ein vom Team als Verstoß angesehender Vorfall im Konflikt mit den Regeln, kann zu einer
-      Strafe wie z.B. einem Mute oder Ban führen, das Team nimmt sich das Recht, dies selbst
-      zu entscheiden, weitere Infos auf [Discord](https://discord.gaminglounge.me)
+  1.2.  Ein vom Team als Verstoß angesehender Vorfall im Konflikt mit den Regeln, kann zu einer
+        Strafe wie z.B. einem Mute oder Ban führen, das Team nimmt sich das Recht, dies selbst
+        zu entscheiden, weitere Infos auf [Discord](https://discord.gaminglounge.me)
       
