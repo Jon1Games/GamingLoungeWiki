@@ -11,7 +11,9 @@ nav_order: 3
 ## Was zu beachten ist.
 
 Um aus unseren Fehlern zu lernen und diesmal die Dinge besser zu machen,
-gibt es diesmal festgeschriebene Regeln.
+gibt es diese Regeln, sind noch nicht perfekt und werden mit der Zeit ergänzt.
+Solte es eine Regel geben die zu ungenau ist oder fehlt ist es empfohlen,
+auf [Discord](https://discord.gaminglounge.me) ein Ticket zu eröffnen.
 
 
 - ## Allgemeines Verhalten
@@ -32,8 +34,8 @@ gibt es diesmal festgeschriebene Regeln.
 - ## Farmen und AFK Regelungen
 
 
-  <gray>Um zu vermeiden, dass Resourcen keinen Wert haben und um den Handel zwischen Spielern anzuregen,
-  haben wir uns diesmal entschieden bestimmte features zu deaktivieren und bestimmte Farmen zu untersagen.</gray>
+  *Um zu vermeiden, dass Resourcen keinen Wert haben und um den Handel zwischen Spielern anzuregen,
+  haben wir uns diesmal entschieden bestimmte features zu deaktivieren und bestimmte Farmen zu untersagen.*
   
 
   3.1.  Alle Formen von Dupper sind nicht mehr gestattet, sowohl TNT-, carped-, string-, als auch Sanddupper sind deaktiviert.
@@ -48,8 +50,8 @@ gibt es diesmal festgeschriebene Regeln.
 
 - ## Shops & öffentliche Telepads
 
-  Im Vergleich zum letzten mal, gibt es für Shops dieses mal keine festen Orte, wir wollen dadurch die Ortwahl deregulieren
-  und so vielleicht auch die Kreativität der Leute steigern.
+  *Im Vergleich zum letzten mal, gibt es für Shops dieses mal keine festen Orte, wir wollen dadurch die Ortwahl deregulieren
+  und so vielleicht auch die Kreativität der Leute steigern.*
 
   4.1.  Shops dürfen überall auf Claims gebaut werden, jedoch muss ihr Gebäude oder ihr Standort an sich,
         halbwegs gut aussehen, es ist nicht erwünscht einfach nur ein Holzhaus mit zwei Kisten in eine Ecke zu stellen.
