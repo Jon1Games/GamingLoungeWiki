@@ -44,7 +44,7 @@ auf [Discord](https://discord.gaminglounge.me) ein Ticket zu eröffnen.
   3.2.  Um AFK farmen zu ermöglichen, aber gleichzeitig auch einzudämmen, gibt es nach 15 Minuten einen AFK kick, es ist untersagt
         diesen zu umgehen, dass automatische farmen unter Anwesenheit ist vollkommen okay und wird auch empfohlen.
   
-  3.3.  unnötiege Hopper und nicht abstellbare Clocks sind zu vermeiden, solte es zu Problemen kommen wird dementsprechend ein
+  3.3.  Unnötiege Hopper und nicht abstellbare Clocks sind zu vermeiden, solte es zu Problemen kommen wird dementsprechend ein
         qualifiziertes Mittglied des Teams diese farmen deaktivieren, hierbei wird immer die meist lagende Farm deaktiviert.
         *Das platzieren von Commpostern über Hoppern solte diese lag effizienter machen.*
 
