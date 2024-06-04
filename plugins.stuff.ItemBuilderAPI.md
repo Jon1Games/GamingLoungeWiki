@@ -11,7 +11,7 @@ nav_order: 1
 ```java
 public class ClassName implements InventoryHolder{
 
-    static ClickEvent event = ClassName::eventI;
+    public static final ClickEvent event = ClassName::eventI;
 
     Inventory inventory;
 	
@@ -25,14 +25,78 @@ public class ClassName implements InventoryHolder{
             1, // Item index
             new ItemBuilder()
                 // Weitere Argumente
+		.whenClicked("Plugin:EventName")
                 .build()
         );
 
     }
 
-    private static void event(InventoryClickEvent e) {
+    private static void eventI(InventoryClickEvent e) {
         // event Code
     }
 
 }
+```
+# Stuff API: PlaceEvent
+```java
+public class ClassName implements InventoryHolder{
+
+    public static final PlaceEvent event = ClassName::eventI;
+
+    Inventory inventory;
+	
+    public ClassName() {
+	
+        this.inventory = Bukkit.createInventory(this, (row * 9), Component.Text(); // row = anzahl der reihen des Inventars (1-6)
+
+        Stuff.INSTANCE.itemBuilderManager.addPlaceEvent(changeName, "Plugin:EventName");
+		
+        telepadGui.setItem(
+            1, // Item index
+            new ItemBuilder()
+                // Weitere Argumente
+		.whenPlaced("Plugin:EventName")
+                .build()
+        );
+
+    }
+
+    private static void eventI(BlockPlaceEvent e) {
+        // event Code
+    }
+
+}
+```
+## Argumente
+
+**Wichtig** Setze das Material des Items, wird das Item Material nicht gesetzt wird ein Error ausgegeben. 
+```java
+.setMaterial(Material.Item_Material)
+```
+set Name nimmt einen Minimessage Component oder einen String,<br>
+Der string wird zu einem Minimessage Component wobei dieser Text nicht wie normal Schräg geschrieben ist.
+```java
+.setName(String)
+```
+```java
+.setName(Component)
+```
+Gibt dem Item ein Endchantment welches normaler weiße in Vanilla nicht möglich ist und versteckt alle Atribute.
+```java
+.setGlint(boolean)
+```
+### Lore
+Diese methode nimmt einen Component Liste und setzt diese als Lore.
+```java
+List<Component> lore = new ArrayList<>();
+lore.add(Component);
+.setLore(lore)
+```
+Bei dieser Methode kan ein String oder ein Component,<br>
+Der string wird zu einem Minimessage Component wobei dieser Text nicht wie normal Schräg geschrieben ist.
+```java
+.addLore(String)
+```
+```java
+.addLore(Component)
 ```
