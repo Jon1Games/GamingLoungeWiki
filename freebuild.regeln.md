@@ -32,8 +32,8 @@ gibt es diesmal festgeschriebene Regeln.
 - ## Farmen und AFK Regelungen
 
 
-  Um zu vermeiden, dass Resourcen keinen Wert haben und um den Handel zwischen Spielern anzuregen,
-  haben wir uns diesmal entschieden bestimmte features zu deaktivieren und bestimmte Farmen zu untersagen.
+  <gray>Um zu vermeiden, dass Resourcen keinen Wert haben und um den Handel zwischen Spielern anzuregen,
+  haben wir uns diesmal entschieden bestimmte features zu deaktivieren und bestimmte Farmen zu untersagen.</gray>
   
 
   3.1.  Alle Formen von Dupper sind nicht mehr gestattet, sowohl TNT-, carped-, string-, als auch Sanddupper sind deaktiviert.
