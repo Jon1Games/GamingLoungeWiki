@@ -20,6 +20,9 @@ auf [Discord](https://discord.gaminglounge.me) ein Ticket zu eröffnen.
 
   1.1.  Die Spieler sind selbst für ihr Verhalten verantwortlich, es gelten die algemeinen
         Verhaltensrichtlienen wie, keine ernstzunehmenden Beleidiegungen, keine Razismus etc.
+
+  1.2.  Es solte offensichtlich sein, DDoS Angriffe oder sonstiege angriffe auf den Server
+        sind untersagt und haben Konsequenzen.
       
 - ## Unfaire Vorteile gegenüber anderen
 
@@ -78,8 +81,15 @@ auf [Discord](https://discord.gaminglounge.me) ein Ticket zu eröffnen.
   6.2.  Dass ausnutzen von Bugs ist untersagt und wird bestarft, solte es zu Bugs führen, welche Items vernichten,
         kann das Team mit plausiebler Begründung Items ersetzen.
 
+- ## Werbung
+
+  7.1.  Werbungen sind nicht erlaubt, solte jemand vor haben Werbung zu schalten,
+        kann er beim Team auf [Discord](https://discord.gaminglounge.me) um Erlaubnis bitten.
+
 - ## Umgang mit Regelbrüchen
 
-  7.1.  Ein vom Team als Verstoß angesehender Vorfall im Konflikt mit den Regeln, kann zu einer
+  8.1.  Ein vom Team als Verstoß angesehender Vorfall im Konflikt mit den Regeln, kann zu einer
         Strafe wie z.B. einem Mute oder Ban führen, das Team nimmt sich das Recht, dies selbst
         zu entscheiden, weitere Infos auf [Discord](https://discord.gaminglounge.me)
+
+  8.2.  Das Team selbst, kann solte ein Spieler gegen den algemeinen Frieden des Servers handeln, ihn bannen.
