@@ -4,6 +4,7 @@ layout: default
 permalink: plugins/stuff/
 parent: Plugins
 nav_order: 1
+has_children: true
 ---
 
 # Stuff
