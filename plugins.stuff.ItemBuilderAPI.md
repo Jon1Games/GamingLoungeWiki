@@ -32,7 +32,7 @@ public class ClassName implements InventoryHolder{
 
 	}
 
-	public void eventI(InventoryClickEvent e) {
+	private static void eventI(InventoryClickEvent e) {
 		// event Code
 	}
 	
@@ -68,7 +68,7 @@ public class ClassName implements InventoryHolder{
 		
 		}
 
-	public void eventI(BlockPlaceEvent e) {
+	private static void eventI(BlockPlaceEvent e) {
 		// event Code
 	}
 	
