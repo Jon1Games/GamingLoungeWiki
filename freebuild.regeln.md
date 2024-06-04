@@ -55,9 +55,10 @@ gibt es diesmal festgeschriebene Regeln.
         halbwegs gut aussehen, es ist nicht erwünscht einfach nur ein Holzhaus mit zwei Kisten in eine Ecke zu stellen.
 
   4.2.  Telepads dürfen nicht als Fallen oder Spieler Farmen verwendet werden.
-        Mit ``/spawn`` kommt eh jeder Spieler aus diesen Fallen raus.
+        Mit ``/spawn`` kommt jeder Spieler aus diesen Fallen raus.
 
-  4.3.
+  4.3.  Es wir auch empfohlen den Markt nicht zu unterbieten, dies führt einfach nur zum Leiden der Marktwirtschaft
+        Das Team behällt sich das Recht ein, Preisempfehlungen zu geben Bzw. Ausreißer Shops temporär zu deaktivieren.
 
 - ## Umgang mit Regelbrüchen
 
