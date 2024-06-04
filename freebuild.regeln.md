@@ -60,7 +60,7 @@ auf [Discord](https://discord.gaminglounge.me) ein Ticket zu eröffnen.
         Mit ``/spawn`` kommt jeder Spieler aus diesen Fallen raus.
 
   4.3.  Es wir auch empfohlen den Markt nicht zu unterbieten, dies führt einfach nur zum Leiden der Marktwirtschaft
-        Das Team behällt sich das Recht ein, Preisempfehlungen zu geben Bzw. Ausreißer Shops temporär zu deaktivieren.
+        Das Team behällt sich das Recht ein Preisempfehlungen zu geben Bzw. Ausreißer Shops temporär zu deaktivieren.
 
 - ## Umgang mit Regelbrüchen
 
