@@ -1,5 +1,5 @@
 ---
-title: ChatInput
+title: ChatInput API
 layout: default
 permalink: plugins/stuff/chatinput/
 parent: Stuff
