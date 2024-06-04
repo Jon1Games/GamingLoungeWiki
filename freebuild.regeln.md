@@ -31,8 +31,10 @@ gibt es diesmal festgeschriebene Regeln.
 
 - ## Farmen und AFK Regelungen
 
-        Um zu vermeiden, dass Resourcen keinen Wert haben und um den Handel zwischen Spielern anzuregen,
-        haben wir uns diesmal entschieden bestimmte features zu deaktivieren und bestimmte Farmen zu untersagen.
+
+  Um zu vermeiden, dass Resourcen keinen Wert haben und um den Handel zwischen Spielern anzuregen,
+  haben wir uns diesmal entschieden bestimmte features zu deaktivieren und bestimmte Farmen zu untersagen.
+  
 
   3.1.  Alle Formen von Dupper sind nicht mehr gestattet, sowohl TNT-, carped-, string-, als auch Sanddupper sind deaktiviert.
         Dies sicher Resourcen wie, Holz, Cobblestone und auch Erze vor einer Inflation.
@@ -43,7 +45,20 @@ gibt es diesmal festgeschriebene Regeln.
   3.3.  unnötiege Hopper und nicht abstellbare Clocks sind zu vermeiden, solte es zu Problemen kommen wird dementsprechend ein
         qualifiziertes Mittglied des Teams diese farmen deaktivieren.
         *Das platzieren von Commpostern über Hoppern solte diese lag effizienter machen.*
-  
+
+- ## Shops & öffentliche Telepads
+
+  Im Vergleich zum letzten mal, gibt es für Shops dieses mal keine festen Orte, wir wollen dadurch die Ortwahl deregulieren
+  und so vielleicht auch die Kreativität der Leute steigern.
+
+  4.1.  Shops dürfen überall auf Claims gebaut werden, jedoch muss ihr Gebäude oder ihr Standort an sich,
+        halbwegs gut aussehen, es ist nicht erwünscht einfach nur ein Holzhaus mit zwei Kisten in eine Ecke zu stellen.
+
+  4.2.  Telepads dürfen nicht als Fallen oder Spieler Farmen verwendet werden.
+        Mit ``/spawn`` kommt eh jeder Spieler aus diesen Fallen raus.
+
+  4.3.
+
 - ## Umgang mit Regelbrüchen
 
   6.1.  Ein vom Team als Verstoß angesehender Vorfall im Konflikt mit den Regeln, kann zu einer
