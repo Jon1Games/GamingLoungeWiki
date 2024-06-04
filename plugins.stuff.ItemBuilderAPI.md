@@ -45,36 +45,22 @@ public class ClassName implements InventoryHolder{
 ```
 # Stuff API: PlaceEvent
 ```java
-public class ClassName implements InventoryHolder{
+public class ClassName {
 	
 	public static final PlaceEvent event = ClassName::eventI;
 	
-	Inventory inventory;
-	
 	public ClassName() {
-	
-		this.inventory = Bukkit.createInventory(this, (row * 9), Component.Text();
-		// row = anzahl der reihen des Inventars (1-6)
-
+		
 		Stuff.INSTANCE.itemBuilderManager.addPlaceEvent(changeName, "Plugin:EventName");
 		
-		telepadGui.setItem(
-			1, // Item index
-			new ItemBuilder()
-				// Weitere Argumente
-				.whenClicked("Plugin:EventName")
-				.build()
-			);
-		
-		}
+		Itemstack item = new ItemBuilder()
+			// Weitere Argumente
+			.whenPlaced("Plugin:EventName")
+			.build()
+		);
 
 	private static void eventI(BlockPlaceEvent e) {
 		// event Code
-	}
-	
-	@Override
-	public @NotNull Inventory getInventory() {
-		return inventory;
 	}
 
 }
