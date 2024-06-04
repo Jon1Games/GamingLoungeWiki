@@ -24,7 +24,7 @@ auf [Discord](https://discord.gaminglounge.me) ein Ticket zu eröffnen.
 - ## Unfaire Vorteile gegenüber anderen
 
   2.1.  Clientmodifikationen, die es einem ermöglichen durch Wände zu sehen, wie z.B. X-ray oder Freecam,
-        sind nicht gestattet, Freecam's können nur zum ausleuchten von Hölen oder überprüfen von Farmen verwendet werden.
+        sind nicht gestattet, da sie den Spielspaß anderer verderben.
 
   2.2.  Hackclients sind algemein verboten, dazu zählen clients die das movement beeinflussen, duppeclients,
         killaura und co.
@@ -45,7 +45,7 @@ auf [Discord](https://discord.gaminglounge.me) ein Ticket zu eröffnen.
         diesen zu umgehen, dass automatische farmen unter Anwesenheit ist vollkommen okay und wird auch empfohlen.
   
   3.3.  unnötiege Hopper und nicht abstellbare Clocks sind zu vermeiden, solte es zu Problemen kommen wird dementsprechend ein
-        qualifiziertes Mittglied des Teams diese farmen deaktivieren.
+        qualifiziertes Mittglied des Teams diese farmen deaktivieren, hierbei wird immer die meist lagende Farm deaktiviert.
         *Das platzieren von Commpostern über Hoppern solte diese lag effizienter machen.*
 
 - ## Shops & öffentliche Telepads
@@ -62,8 +62,24 @@ auf [Discord](https://discord.gaminglounge.me) ein Ticket zu eröffnen.
   4.3.  Es wir auch empfohlen den Markt nicht zu unterbieten, dies führt einfach nur zum Leiden der Marktwirtschaft
         Das Team behält sich das Recht ein Preisempfehlungen zu geben Bzw. Ausreißer Shops temporär zu deaktivieren.
 
+- ## Griefen und Resourcen farmen
+
+  5.1.  Es ist untersagt Spieler zu griefen, ungeclaimte Grundstücke sind hiervon ausgeschlossen,
+        das Team wird keine Resourcen zurückerstaten.
+
+  5.2.  Das farmen von Resourcen ist im FreeBuild untersagt, das minen von Erzen ist okay, aber es wird empfohlen auch hier
+        die jeweiliege Farmwelt zu nutzen um einen sauberen FreeBuild zu hinterlassen.
+
+- ## Bei Lags und Bugs
+
+  6.1.  Solte es mal zu Problemen durch Lags kommen, könnte unter Videobeweis oder auch in seltenden Fällen durch Logs
+        das Team verlorende Resourcen wiedererstatten, sofern die Erklärung plausiebel ist.
+
+  6.2.  Dass ausnutzen von Bugs ist untersagt und wird bestarft, solte es zu Bugs führen, welche Items vernichten,
+        kann das Team mit plausiebler Begründung Items ersetzen.
+
 - ## Umgang mit Regelbrüchen
 
-  6.1.  Ein vom Team als Verstoß angesehender Vorfall im Konflikt mit den Regeln, kann zu einer
+  7.1.  Ein vom Team als Verstoß angesehender Vorfall im Konflikt mit den Regeln, kann zu einer
         Strafe wie z.B. einem Mute oder Ban führen, das Team nimmt sich das Recht, dies selbst
         zu entscheiden, weitere Infos auf [Discord](https://discord.gaminglounge.me)
