@@ -1,5 +1,5 @@
 ---
-title: ItemBuilder
+title: ItemBuilder API
 layout: default
 permalink: plugins/stuff/itembuilderapi/
 parent: Stuff
