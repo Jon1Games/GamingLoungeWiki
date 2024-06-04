@@ -18,7 +18,7 @@ public class ClassName implements InventoryHolder{
 	public ClassName() {
 	
 		this.inventory = Bukkit.createInventory(this, (row * 9), Component.Text();
-							    // row = anzahl der reihen des Inventars (1-6)
+		// row = anzahl der reihen des Inventars (1-6)
 	
 		Stuff.INSTANCE.itemBuilderManager.addClickEvent(changeName, "Plugin:EventName");
 			
@@ -54,7 +54,7 @@ public class ClassName implements InventoryHolder{
 	public ClassName() {
 	
 		this.inventory = Bukkit.createInventory(this, (row * 9), Component.Text();
-							    // row = anzahl der reihen des Inventars (1-6)
+		// row = anzahl der reihen des Inventars (1-6)
 
 		Stuff.INSTANCE.itemBuilderManager.addPlaceEvent(changeName, "Plugin:EventName");
 		
