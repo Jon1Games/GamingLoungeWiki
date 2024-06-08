@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FreeBuild
-nav_order: 6
+nav_order: 7
 permalink: freebuild/
 has_children: true
 ---
