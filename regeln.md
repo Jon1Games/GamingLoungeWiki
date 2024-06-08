@@ -26,14 +26,14 @@ idk was aber iwas mit: Diese Regeln gelten für das gesamte Gaminglounge Netzwek
   1.2.  Es solte offensichtlich sein, DDoS Angriffe oder sonstiege angriffe auf den Server
         sind untersagt und haben Konsequenzen.
         
-- ## Webungen
+- ### Webungen
 
   2.1.  Werbungen sind nicht erlaubt, solte jemand vor haben Werbung zu schalten,
         kann er beim Team auf [Discord](https://discord.gaminglounge.me) um Erlaubnis bitten.
 
 ## Minecraft Server
 
-- ## Unfaire Vorteile gegenüber anderen
+- ### Unfaire Vorteile gegenüber anderen
 
   3.1.  Clientmodifikationen, die es einem ermöglichen durch Wände zu sehen, wie z.B. X-ray oder Freecam,
         sind nicht gestattet, da sie den Spielspaß anderer verderben.
@@ -43,7 +43,7 @@ idk was aber iwas mit: Diese Regeln gelten für das gesamte Gaminglounge Netzwek
 
   3.3.  Autoclicker sind nicht untersagt, der Spieler wird aber wird nach 15 Minuten automatisch gekickt.
 
-- ## Farmen und AFK Regelungen
+- ### Farmen und AFK Regelungen
 
 
   *Um zu vermeiden, dass Resourcen keinen Wert haben und um den Handel zwischen Spielern anzuregen,
@@ -60,7 +60,7 @@ idk was aber iwas mit: Diese Regeln gelten für das gesamte Gaminglounge Netzwek
         qualifiziertes Mittglied des Teams diese farmen deaktivieren, hierbei wird immer die meist lagende Farm deaktiviert.
         *Das platzieren von Commpostern über Hoppern solte diese lag effizienter machen.*
 
-- ## Shops & öffentliche Telepads
+- ### Shops & öffentliche Telepads
 
   *Im Vergleich zum letzten mal, gibt es für Shops dieses mal keine festen Orte, wir wollen dadurch die Ortwahl deregulieren
   und so vielleicht auch die Kreativität der Leute steigern.*
@@ -74,7 +74,7 @@ idk was aber iwas mit: Diese Regeln gelten für das gesamte Gaminglounge Netzwek
   5.3.  Es wir auch empfohlen den Markt nicht zu unterbieten, dies führt einfach nur zum Leiden der Marktwirtschaft
         Das Team behält sich das Recht ein Preisempfehlungen zu geben Bzw. Ausreißer Shops temporär zu deaktivieren.
 
-- ## Griefen und Resourcen farmen
+- ### Griefen und Resourcen farmen
 
   6.1.  Es ist untersagt Spieler zu griefen, ungeclaimte Grundstücke sind hiervon ausgeschlossen,
         das Team wird keine Resourcen zurückerstaten.
@@ -82,7 +82,7 @@ idk was aber iwas mit: Diese Regeln gelten für das gesamte Gaminglounge Netzwek
   6.2.  Das farmen von Resourcen ist im FreeBuild untersagt, das minen von Erzen ist okay, aber es wird empfohlen auch hier
         die jeweiliege Farmwelt zu nutzen um einen sauberen FreeBuild zu hinterlassen.
 
-- ## Bei Lags und Bugs
+- ### Bei Lags und Bugs
 
   7.1.  Solte es mal zu Problemen durch Lags kommen, könnte unter Videobeweis oder auch in seltenden Fällen durch Logs
         das Team verlorende Resourcen wiedererstatten, sofern die Erklärung plausiebel ist.
