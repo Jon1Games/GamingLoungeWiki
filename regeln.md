@@ -26,7 +26,7 @@ idk was aber iwas mit: Diese Regeln gelten für das gesamte Gaminglounge Netzwek
   1.2.  Es solte offensichtlich sein, DDoS Angriffe oder sonstiege angriffe auf den Server
         sind untersagt und haben Konsequenzen.
         
-- ## Werbung<br>
+- ## Webungen
 
   2.1.  Werbungen sind nicht erlaubt, solte jemand vor haben Werbung zu schalten,
         kann er beim Team auf [Discord](https://discord.gaminglounge.me) um Erlaubnis bitten.
