@@ -65,6 +65,7 @@ public class ClassName {
 
 }
 ```
+Die Events können ebenfals in einer anderen Klasse registriert sein.
 ## Argumente
 
 **Wichtig** Setze das Material des Items, wird das Item Material nicht gesetzt wird ein Error ausgegeben. 
