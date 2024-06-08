@@ -2,7 +2,7 @@
 title: Clans
 layout: default
 permalink: clans/
-nav_order: 4
+nav_order: 5
 ---
 
 # Clans
