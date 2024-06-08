@@ -11,7 +11,7 @@ nav_order: 1
 ```java
 public class ClassName implements InventoryHolder{
 
-	public static final ClickEvent event = ClassName::eventI;
+	private static final ClickEvent event = ClassName::eventI;
 
 	Inventory inventory;
 	
@@ -47,7 +47,7 @@ public class ClassName implements InventoryHolder{
 ```java
 public class ClassName {
 	
-	public static final PlaceEvent event = ClassName::eventI;
+	private static final PlaceEvent event = ClassName::eventI;
 	
 	public ClassName() {
 		
