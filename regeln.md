@@ -14,9 +14,9 @@ gibt es diese Regeln, sind noch nicht perfekt und werden mit der Zeit ergänzt.
 Solte es eine Regel geben die zu ungenau ist oder fehlt ist es empfohlen,
 auf [Discord](https://discord.gaminglounge.me) ein Ticket zu eröffnen.
 
-## Zustäandigkeits bereich (Anders nennen)
+## Zustäandigkeits bereich
 
-idk was aber iwas mit: Diese Regeln gelten für das gesamte Gaminglounge Netzwek
+Die folgenden Regeln gelten für das **Gesammte** GamingLounge Netzwerk, das beinhaltet unter anderem den Discord Server und die Minecraft Server. 
 
 ## Allgemeines Verhalten
 
