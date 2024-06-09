@@ -47,3 +47,11 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Gaming Lounge Webseite":
+    - "https://GamingLounge.me"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
