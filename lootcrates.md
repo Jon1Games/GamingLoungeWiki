@@ -6,3 +6,5 @@ nav_order: 5
 ---
 
 # Loot Kisten
+
+Eintragungen folgen...
