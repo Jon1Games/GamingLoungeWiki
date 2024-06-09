@@ -17,3 +17,5 @@ Auch ergänzt diese einige Befehle wie z.B.: /discord oder /msg.
 Dan Formatiert dieses die Spielernamen um einen Prefix und Suffix mit Farben zu erzeugen.
 Anschließen ist es für die Chat-Formatierung zu ständig und erlaubt es mit farben zu schreiben:
 ![image](https://github.com/Jon1Games/GamingLoungeWiki/assets/118659471/ff32d6e4-7553-42a8-9827-f5a30a6a8bd2)
+<br><br>
+Weiterhin besitzt dieses einige API features welche unsere Weiteren Plugins benutzen.
