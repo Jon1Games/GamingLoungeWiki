@@ -5,4 +5,6 @@ permalink: clans/
 nav_order: 5
 ---
 
-# Clans
+# Teams
+
+Eintragungen folgen...
