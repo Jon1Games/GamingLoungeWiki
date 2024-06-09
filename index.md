@@ -5,6 +5,6 @@ permalink: /
 nav_order: 1
 ---
 
-# TEst
+# Gaming Lounge Wiki
 
-test
+Hier findet ihr alles Wichtige zum GamingLounge Netzwerk.
