@@ -1,9 +1,9 @@
 ---
 title: Jim
 layout: default
-permalink: freebuild/npcs/jim/
+permalink: endless/npcs/jim/
 parent: NPC's
-grand_parent: FreeBuild
+grand_parent: Endless
 nav_order: 1
 ---
 
