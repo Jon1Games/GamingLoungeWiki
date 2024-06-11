@@ -16,7 +16,7 @@ auf [Discord](https://discord.gaminglounge.me) ein Ticket zu eröffnen.
 
 ## Zuständigkeits bereich
 
-Die folgenden Regeln gelten für das **Gesammte** GamingLounge Netzwerk, das beinhaltet unter anderem den Discord Server und die Minecraft Server. 
+Die folgenden Regeln gelten für das **Gesammte** GamingLounge Netzwerk, dies beinhaltet unter anderem den Discord Server und alle anderen Service im zusammenhang mit dem GamingLounge.me Netzwerk. 
 
 ## Allgemeines Verhalten
 
@@ -97,3 +97,5 @@ Die folgenden Regeln gelten für das **Gesammte** GamingLounge Netzwerk, das bei
         zu entscheiden, weitere Infos auf [Discord](https://discord.gaminglounge.me)
 
   8.2.  Das Team selbst, kann solte ein Spieler gegen den algemeinen Frieden des Servers handeln, ihn bannen.
+
+  8.3. Die Regeln gälten nach Interpretation des Teams, nicht der des Spielers, den Anweisungen des Teams ist folge zu leisten.
