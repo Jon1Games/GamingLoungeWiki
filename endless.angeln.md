@@ -12,7 +12,7 @@ Angeln hat bei uns eine bessondere Rolle, es ist entspannend und sorgt für ein 
 darum haben wir uns entschieden es zu einem grind zu machen.
 Wir verwenden eine modifizierte Variante des [Fishing Extended]([https://www.spigotmc.org/resources/griefprevention.1884/](https://www.planetminecraft.com/data-pack/more-items-to-fish-fishing-extended-1-18x/)) Datapacks.
 Angeln ist außerdem einer der weniegen Wege Mending außerhalb von Kisten zu bekommen,
-da [Villager](endless/villager) bei uns kein Mending anbieten.
+da [Villager](./endless/villager) bei uns kein Mending anbieten.
 
 ## Die Chancen
 
