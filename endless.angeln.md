@@ -1,8 +1,8 @@
 ---
 title: Angeln
 layout: default
-permalink: freebuild/angeln/
-parent: FreeBuild
+permalink: endless/angeln/
+parent: Endless
 nav_order: 2
 ---
 
