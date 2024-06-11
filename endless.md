@@ -5,4 +5,4 @@ nav_order: 7
 permalink: endless/
 has_children: true
 ---
-# Hier werden alle Infos zum FreeBuild auf dem GamingLounge Netzwerk aufgelistet und erklärt.
+# Hier werden alle Infos zum Endles Moduss auf dem GamingLounge Netzwerk aufgelistet und erklärt.
