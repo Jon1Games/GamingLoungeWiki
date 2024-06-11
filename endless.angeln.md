@@ -16,10 +16,10 @@ Angeln ist außerdem einer der weniegen Wege Mending außerhalb von Kisten zu be
 
 ## Die Chancen
 
-## attention
+## Admonition
 
-{: .attention }
-test
+{: .admonition }
+A paragraph
 
 Die Chance für eine Lootcrate mit Mending wird berrechnet durch diese Formel
 `Chance = (1+(Luck_of_the_sea+Luck))/450`
