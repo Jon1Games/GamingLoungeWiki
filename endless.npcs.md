@@ -1,8 +1,8 @@
 ---
 title: NPC's
 layout: default
-permalink: freebuild/npcs/
-parent: FreeBuild
+permalink: endless/npcs/
+parent: Endless
 nav_order: 1
 has_children: true
 ---
