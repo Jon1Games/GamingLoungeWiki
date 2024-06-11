@@ -25,3 +25,10 @@ Die Chance für eine Lootcrate mit Mending wird berrechnet durch diese Formel
 | Luck_of_the_sea 1 | `~0,44%` | `~0,66%` | `~0,88%` |
 | Luck_of_the_sea 2 | `~0,66%` | `~0,88%` | `~1,11%` |
 | Luck_of_the_sea 3 | `~0,88%` | `~1,11%` | `~1,33%` |
+
+## Loot Anzeigen
+
+![Screenshot 2024-06-11 191952](https://github.com/Jon1Games/GamingLoungeWiki/assets/148646942/ba8180a4-c942-4d68-8dac-f9a0ec1e90f1)
+
+Diese Anzeigen, zeigen den Loot denn man geangelt hat,
+um ihn seinen Freunden zeigen zu können und potenziel anzugeben.
