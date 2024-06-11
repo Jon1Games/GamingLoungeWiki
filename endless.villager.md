@@ -8,10 +8,12 @@ nav_order: 3
 
 # Villager
 
-Villager haben bei uns schon immer eine bessondere Rolle gehabt,
+Villager hatten bei uns schon immer eine bessondere Rolle gehabt,
 da Minecraft Enchatments & Rüstungen nicht wirklich im Griff hate,
 kam die Idee von Steve ein paar Änderungen vorzunehmen.
-Unter anderem sind folgende Dinge geändert worden.
+Unter anderem sind folgende Dinge geändert worden, um
+dafür zu sorgen, unseren Spielern ein paar Herrausforderungen
+zu geben, welche potenziel auch die Kooperation untereinander stärkt.
 
 ## Keine Mending Villager
 
