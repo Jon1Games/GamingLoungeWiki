@@ -19,7 +19,7 @@ zu geben, welche potenziel auch die Kooperation untereinander stärkt.
 
 Da wir die Verwendung von Villagern etwas einschrenken wollen,
 um den Spieler zu animieren seine Resourcen selber zu farmen,
-haben wir uns entschieden Mending als trade mit dem Datapack [No Tressure Enchatnment](https://www.planetminecraft.com/data-pack/no-mending-offers/) zu deaktivieren.
+haben wir uns entschieden Mending als trade mit dem Datapack [No Tressure Enchantment](https://www.planetminecraft.com/data-pack/no-mending-offers/) zu deaktivieren.
 
 ## Wie kommt man an Mending?
 
