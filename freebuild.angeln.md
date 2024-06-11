@@ -2,9 +2,10 @@
 title: Angeln
 layout: default
 permalink: freebuild/angeln/
-parent: freebuild
+parent: FreeBuild
 nav_order: 2
 ---
+
 
 # Angeln auf GamingLounge
 
