@@ -21,7 +21,7 @@ haben wir uns entschieden Mending als trade zu deaktivieren.
 
 ## Wie kommt man an Mending?
 
-Mending bekommt man in Stuckturen & durchs [Angeln](/endless/angeln).
+Mending bekommt man in Stuckturen & durchs [Angeln](./endless/angeln).
 Weitere Wege währen Lootkisten welche eine solide
 Alternative zum angeln bieten, wir empfehlen auch,
 den handel mit anderen Spielern.
