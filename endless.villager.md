@@ -44,6 +44,7 @@ wie zum Beispiel der Sumpf nur in der Farmwelt verfügbar sind.
 
 ![experimental-librarians](https://github.com/Jon1Games/GamingLoungeWiki/assets/118659471/1320bb67-17db-4e6e-ab37-943b259d5091)
 
-![Mw20bv40laGHOGzbbSIkT38oGntla8xEdE_7r5HO2VY](https://github.com/Jon1Games/GamingLoungeWiki/assets/118659471/51e6c712-475f-4a28-807d-fe44f0cff3b8)
+![VillagerTrades](https://github.com/Jon1Games/GamingLoungeWiki/assets/118659471/a7314711-04df-4e4b-b5fd-cb511da52183)
+
 
 
