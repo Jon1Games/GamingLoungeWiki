@@ -41,3 +41,7 @@ auf einen Emerald reduzieren können.
 Wir haben diese Feature 1 zu 1 angewändert mit dem Zusatz, dass es
 durch unsere custom Map nicht jedes Biom gibt und bestimmte Biome
 wie zum Beispiel der Sumpf nur in der Farmwelt verfügbar sind.
+
+![experimental-librarians](https://github.com/Jon1Games/GamingLoungeWiki/assets/118659471/c3e7720a-6484-4b41-98a2-ab692210b4a3)
+
+![villagertrades](https://github.com/Jon1Games/GamingLoungeWiki/assets/118659471/6af64b2d-ebf7-4e9d-a920-4c39a0f2ccba)
