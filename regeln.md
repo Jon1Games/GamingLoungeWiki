@@ -21,7 +21,7 @@ Die folgenden Regeln gelten für das **Gesammte** GamingLounge Netzwerk, dies be
 
   1.2.  Es solte offensichtlich sein, DDoS Angriffe oder sonstiege angriffe auf den Server sind untersagt und haben Konsequenzen.
 
-  1.3.  NSFW Inhalte sind ausschlißlich in den dafür gekenzeichneten Channeln erlaubt. 
+  1.3.  NSFW Inhalte sind ausschließlich in den dafür gekenzeichneten Channeln erlaubt. 
 
   1.4.  Keine Nutzung von Stimmenverzerrern oder Soundboards (Discords eigendes Soundbord ausgenommen).
         
