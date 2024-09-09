@@ -1,5 +1,6 @@
 ---
 title: Claimen
+parent: Endless
 layout: default
 permalink: claimen/
 nav_order: 4
