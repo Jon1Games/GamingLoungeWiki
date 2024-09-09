@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Endless
 title: Commands
 nav_order: 3
 permalink: commands/
